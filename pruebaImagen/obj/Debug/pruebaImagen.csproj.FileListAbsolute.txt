@@ -1,0 +1,9 @@
+C:\Users\LasAv\source\repos\pruebaImagen\pruebaImagen\bin\Debug\pruebaImagen.exe.config
+C:\Users\LasAv\source\repos\pruebaImagen\pruebaImagen\bin\Debug\pruebaImagen.exe
+C:\Users\LasAv\source\repos\pruebaImagen\pruebaImagen\bin\Debug\pruebaImagen.pdb
+C:\Users\LasAv\source\repos\pruebaImagen\pruebaImagen\obj\Debug\pruebaImagen.csprojAssemblyReference.cache
+C:\Users\LasAv\source\repos\pruebaImagen\pruebaImagen\obj\Debug\pruebaImagen.Properties.Resources.resources
+C:\Users\LasAv\source\repos\pruebaImagen\pruebaImagen\obj\Debug\pruebaImagen.csproj.GenerateResource.cache
+C:\Users\LasAv\source\repos\pruebaImagen\pruebaImagen\obj\Debug\pruebaImagen.exe
+C:\Users\LasAv\source\repos\pruebaImagen\pruebaImagen\obj\Debug\pruebaImagen.pdb
+C:\Users\LasAv\source\repos\pruebaImagen\pruebaImagen\obj\Debug\pruebaImagen.frmRegistrar.resources
