@@ -7,3 +7,12 @@ C:\Users\LasAv\source\repos\pruebaImagen\pruebaImagen\obj\Debug\pruebaImagen.csp
 C:\Users\LasAv\source\repos\pruebaImagen\pruebaImagen\obj\Debug\pruebaImagen.exe
 C:\Users\LasAv\source\repos\pruebaImagen\pruebaImagen\obj\Debug\pruebaImagen.pdb
 C:\Users\LasAv\source\repos\pruebaImagen\pruebaImagen\obj\Debug\pruebaImagen.frmRegistrar.resources
+C:\Users\LasAv\OneDrive\Documents\GitHub\sqlServerFotoCsharp\pruebaImagen\bin\Debug\pruebaImagen.exe.config
+C:\Users\LasAv\OneDrive\Documents\GitHub\sqlServerFotoCsharp\pruebaImagen\bin\Debug\pruebaImagen.exe
+C:\Users\LasAv\OneDrive\Documents\GitHub\sqlServerFotoCsharp\pruebaImagen\bin\Debug\pruebaImagen.pdb
+C:\Users\LasAv\OneDrive\Documents\GitHub\sqlServerFotoCsharp\pruebaImagen\obj\Debug\pruebaImagen.csprojAssemblyReference.cache
+C:\Users\LasAv\OneDrive\Documents\GitHub\sqlServerFotoCsharp\pruebaImagen\obj\Debug\pruebaImagen.frmRegistrar.resources
+C:\Users\LasAv\OneDrive\Documents\GitHub\sqlServerFotoCsharp\pruebaImagen\obj\Debug\pruebaImagen.Properties.Resources.resources
+C:\Users\LasAv\OneDrive\Documents\GitHub\sqlServerFotoCsharp\pruebaImagen\obj\Debug\pruebaImagen.csproj.GenerateResource.cache
+C:\Users\LasAv\OneDrive\Documents\GitHub\sqlServerFotoCsharp\pruebaImagen\obj\Debug\pruebaImagen.exe
+C:\Users\LasAv\OneDrive\Documents\GitHub\sqlServerFotoCsharp\pruebaImagen\obj\Debug\pruebaImagen.pdb
